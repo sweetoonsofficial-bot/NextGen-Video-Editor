@@ -1,0 +1,5 @@
+{
+  "name": "NextGen Video Editor",
+  "description": "A high-performance, 100% client-side video and image editing application leveraging WebGPU, WASM, and OPFS.",
+  "requestFramePermissions": ["camera", "microphone"]
+}

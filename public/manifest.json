@@ -1,0 +1,21 @@
+{
+  "name": "NextGen Video Editor",
+  "short_name": "NextGen",
+  "description": "The Billion-Dollar Browser NLE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=nextgen&backgroundColor=f97316",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=nextgen&backgroundColor=f97316",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
